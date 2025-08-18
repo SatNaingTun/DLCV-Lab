@@ -1,3 +1,6 @@
+import os
+print("Current working directory:", os.getcwd())
+
 from ultralytics import YOLO
 
 # Load a model
