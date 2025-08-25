@@ -4,10 +4,11 @@
 from ultralytics import YOLO
 
 # Load a model
-model = YOLO("yolov8n.pt")  # pretrained YOLOv8n model
+modelv8n = YOLO("yolov8n.pt")  # pretrained YOLOv8n model
 
 # Run batched inference on a list of images
-results = model(["cars.jpeg", "dogs.jpeg", "people_bags.jpeg"])  # return a list of Results objects
+image_files = [f"{i}.jpg" for i in range(1, 6)]
+results = modelv8n(image_files)  # return a list of Results objects
 
 # Process results list
 for idx, result in enumerate(results):
