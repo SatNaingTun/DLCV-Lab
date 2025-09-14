@@ -1,0 +1,11 @@
+/home/yourname/DLCV/imgs/img01.png
+/home/yourname/DLCV/imgs/img02.png
+/home/yourname/DLCV/imgs/img03.png
+/home/yourname/DLCV/imgs/img04.png
+/home/yourname/DLCV/imgs/img05.png
+/home/yourname/DLCV/imgs/img06.png
+/home/yourname/DLCV/imgs/img07.png
+/home/yourname/DLCV/imgs/img08.png
+/home/yourname/DLCV/imgs/img09.png
+/home/yourname/DLCV/imgs/img10.png
+

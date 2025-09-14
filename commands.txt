@@ -1,0 +1,2 @@
+jupyter nbconvert --to script /path/to/notebooks/*.ipynb
+jupyter nbconvert --to pdf 
