@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 .venv/
+*.meta
+Lab/data/
+Lab/data/*.*
