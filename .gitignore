@@ -5,4 +5,5 @@ Lab/data/
 Lab/data/*.*
 DLCV-03-Basic_CNN_and_PyTorch/data/cifar-10-python.tar.gz
 DLCV-04-AlexNet-GoogLeNet/saved_models.zip
-
+models/
+models/*
